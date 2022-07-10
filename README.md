@@ -3,7 +3,7 @@ This is my first practice of using react. It has some basic features :
      2. we can clear the hole text with the button clear
      3. we can change the colour of the text to red ( this feature has no use, but i made it :/ )
      
- this project includes to pages 1. home page(TextForm.js) 2. About page(About.js)
+ this project includes two pages 1. home page(TextForm.js) 2. About page(About.js)
  
      
   I have some issue :
